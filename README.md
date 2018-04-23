@@ -1,4 +1,4 @@
-<img src="./assets/logo.png" alt="Drawing" style="width: 300px;"/>
+<img src="./assets/logo.png" alt="Drawing" style="width: 200px;"/>
 
 ### Goal
 
