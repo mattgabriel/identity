@@ -1,4 +1,4 @@
-<img src="./assets/logo.png" alt="Drawing" style="width: 200px;"/>
+# Identity
 
 ### Goal
 
@@ -21,3 +21,6 @@ Identity's technology opens the door for an endless list of 3rd party services a
 ## Contributing
 
 Open an issue or a pull request to suggest changes or additions.
+
+
+<center><img src="./assets/logo.png" alt="Drawing" style="width: 200px;"/></center>
