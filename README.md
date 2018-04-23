@@ -1,4 +1,4 @@
-# Identity
+<img src="./assets/logo.png" alt="Drawing" style="width: 300px;"/>
 
 ### Goal
 
